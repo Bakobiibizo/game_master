@@ -1,0 +1,6 @@
+{
+    "sink": "stdout", 
+    "colorize": true,
+    "backtrace": true,
+    "diagnose": true
+}

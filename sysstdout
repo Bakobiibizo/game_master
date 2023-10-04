@@ -1,0 +1,51 @@
+2023-10-03T00:51:18.376788-0700 - - running get selector
+2023-10-03T00:51:18.376788-0700 - - Initializing SelectChoice
+2023-10-03T00:51:18.376788-0700 - <helpers.choice_selector.SelectChoice object at 0x00000209C8BFA260>
+2023-10-03T00:51:18.376788-0700 - - selecting choice
+2023-10-03T00:51:20.901312-0700 - None
+2023-10-03T00:52:09.477657-0700 - - running get selector
+2023-10-03T00:52:09.477657-0700 - - Initializing SelectChoice
+2023-10-03T00:52:09.477657-0700 - <helpers.choice_selector.SelectChoice object at 0x00000242CBD65CC0>
+2023-10-03T00:52:09.477657-0700 - - selecting choice
+2023-10-03T00:52:10.562440-0700 - None
+2023-10-03T00:53:47.363854-0700 - Initializing the Application
+2023-10-03T00:53:47.363854-0700 - - running get selector
+2023-10-03T00:53:47.365357-0700 - - Initializing SelectChoice
+2023-10-03T00:53:47.365357-0700 - <helpers.choice_selector.SelectChoice object at 0x000001946B8849D0>
+2023-10-03T00:53:47.365357-0700 - - selecting choice
+2023-10-03T00:53:50.114714-0700 - None
+2023-10-03T00:53:52.856794-0700 - Initializing the Application
+2023-10-03T00:53:52.856794-0700 - - running get selector
+2023-10-03T00:53:52.856794-0700 - - Initializing SelectChoice
+2023-10-03T00:53:52.856794-0700 - <helpers.choice_selector.SelectChoice object at 0x000001FE8F2A49D0>
+2023-10-03T00:53:52.856794-0700 - - selecting choice
+2023-10-03T00:53:53.814378-0700 - None
+2023-10-03T00:54:05.100559-0700 - Initializing the Application
+2023-10-03T00:54:05.100559-0700 - - running get selector
+2023-10-03T00:54:05.100559-0700 - - Initializing SelectChoice
+2023-10-03T00:54:05.100559-0700 - <helpers.choice_selector.SelectChoice object at 0x0000023E848A49D0>
+2023-10-03T00:54:05.100559-0700 - - selecting choice
+2023-10-03T00:54:13.608843-0700 - Initializing the Application
+2023-10-03T00:54:13.608843-0700 - - running get selector
+2023-10-03T00:54:13.608843-0700 - - Initializing SelectChoice
+2023-10-03T00:54:13.609848-0700 - <helpers.choice_selector.SelectChoice object at 0x00000265D34749D0>
+2023-10-03T00:54:13.609848-0700 - - selecting choice
+2023-10-03T00:54:14.992641-0700 - None
+2023-10-03T00:59:43.149883-0700 - Initializing the Application
+2023-10-03T00:59:43.149883-0700 - - running get selector
+2023-10-03T00:59:43.149883-0700 - - Initializing SelectChoice
+2023-10-03T00:59:43.149883-0700 - <helpers.choice_selector.SelectChoice object at 0x0000024DC9A149D0>
+2023-10-03T00:59:43.149883-0700 - - selecting choice
+2023-10-03T00:59:44.954460-0700 - None
+2023-10-03T00:59:53.708064-0700 - Initializing the Application
+2023-10-03T00:59:53.708064-0700 - - running get selector
+2023-10-03T00:59:53.708064-0700 - - Initializing SelectChoice
+2023-10-03T00:59:53.709064-0700 - <helpers.choice_selector.SelectChoice object at 0x000002DA14CB49D0>
+2023-10-03T00:59:53.709064-0700 - - selecting choice
+2023-10-03T00:59:54.734552-0700 - None
+2023-10-03T00:59:56.837294-0700 - Initializing the Application
+2023-10-03T00:59:56.837294-0700 - - running get selector
+2023-10-03T00:59:56.838294-0700 - - Initializing SelectChoice
+2023-10-03T00:59:56.838294-0700 - <helpers.choice_selector.SelectChoice object at 0x000001FD1A3949D0>
+2023-10-03T00:59:56.838294-0700 - - selecting choice
+2023-10-03T00:59:58.337302-0700 - None

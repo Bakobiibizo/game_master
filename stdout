@@ -1,0 +1,526 @@
+{"text": "2023-10-03T01:00:22.619763-0700 - Initializing the Application\n", "record": {"elapsed": {"repr": "0:00:00.007742", "seconds": 0.007742}, "exception": null, "extra": {}, "file": {"name": "main.py", "path": "E:\\01Coding\\game_master\\src\\main.py"}, "function": "main", "level": {"icon": "ℹ️", "name": "INFO", "no": 20}, "line": 8, "message": "Initializing the Application", "module": "main", "name": "__main__", "process": {"id": 29872, "name": "MainProcess"}, "thread": {"id": 35636, "name": "MainThread"}, "time": {"repr": "2023-10-03 01:00:22.619763-07:00", "timestamp": 1696320022.619763}}}
+{"text": "2023-10-03T01:00:22.619763-0700 - - running get selector\n", "record": {"elapsed": {"repr": "0:00:00.007742", "seconds": 0.007742}, "exception": null, "extra": {}, "file": {"name": "choice_selector.py", "path": "E:\\01Coding\\game_master\\src\\helpers\\choice_selector.py"}, "function": "get_selector", "level": {"icon": "ℹ️", "name": "INFO", "no": 20}, "line": 28, "message": "- running get selector", "module": "choice_selector", "name": "helpers.choice_selector", "process": {"id": 29872, "name": "MainProcess"}, "thread": {"id": 35636, "name": "MainThread"}, "time": {"repr": "2023-10-03 01:00:22.619763-07:00", "timestamp": 1696320022.619763}}}
+{"text": "2023-10-03T01:00:22.620761-0700 - - Initializing SelectChoice\n", "record": {"elapsed": {"repr": "0:00:00.008740", "seconds": 0.00874}, "exception": null, "extra": {}, "file": {"name": "choice_selector.py", "path": "E:\\01Coding\\game_master\\src\\helpers\\choice_selector.py"}, "function": "__init__", "level": {"icon": "ℹ️", "name": "INFO", "no": 20}, "line": 7, "message": "- Initializing SelectChoice", "module": "choice_selector", "name": "helpers.choice_selector", "process": {"id": 29872, "name": "MainProcess"}, "thread": {"id": 35636, "name": "MainThread"}, "time": {"repr": "2023-10-03 01:00:22.620761-07:00", "timestamp": 1696320022.620761}}}
+{"text": "2023-10-03T01:00:22.620761-0700 - <helpers.choice_selector.SelectChoice object at 0x000001CC8696EDA0>\n", "record": {"elapsed": {"repr": "0:00:00.008740", "seconds": 0.00874}, "exception": null, "extra": {}, "file": {"name": "choice_selector.py", "path": "E:\\01Coding\\game_master\\src\\helpers\\choice_selector.py"}, "function": "get_selector", "level": {"icon": "🐞", "name": "DEBUG", "no": 10}, "line": 31, "message": "<helpers.choice_selector.SelectChoice object at 0x000001CC8696EDA0>", "module": "choice_selector", "name": "helpers.choice_selector", "process": {"id": 29872, "name": "MainProcess"}, "thread": {"id": 35636, "name": "MainThread"}, "time": {"repr": "2023-10-03 01:00:22.620761-07:00", "timestamp": 1696320022.620761}}}
+{"text": "2023-10-03T01:00:22.620761-0700 - - selecting choice\n", "record": {"elapsed": {"repr": "0:00:00.008740", "seconds": 0.00874}, "exception": null, "extra": {}, "file": {"name": "choice_selector.py", "path": "E:\\01Coding\\game_master\\src\\helpers\\choice_selector.py"}, "function": "select_choice", "level": {"icon": "ℹ️", "name": "INFO", "no": 20}, "line": 9, "message": "- selecting choice", "module": "choice_selector", "name": "helpers.choice_selector", "process": {"id": 29872, "name": "MainProcess"}, "thread": {"id": 35636, "name": "MainThread"}, "time": {"repr": "2023-10-03 01:00:22.620761-07:00", "timestamp": 1696320022.620761}}}
+{"text": "2023-10-03T01:00:24.589502-0700 - None\n", "record": {"elapsed": {"repr": "0:00:01.977481", "seconds": 1.977481}, "exception": null, "extra": {}, "file": {"name": "main.py", "path": "E:\\01Coding\\game_master\\src\\main.py"}, "function": "main", "level": {"icon": "🐞", "name": "DEBUG", "no": 10}, "line": 12, "message": "None", "module": "main", "name": "__main__", "process": {"id": 29872, "name": "MainProcess"}, "thread": {"id": 35636, "name": "MainThread"}, "time": {"repr": "2023-10-03 01:00:24.589502-07:00", "timestamp": 1696320024.589502}}}
+2023-10-03T01:00:32.460988-0700 - Initializing the Application
+2023-10-03T01:00:32.460988-0700 - - running get selector
+2023-10-03T01:00:32.460988-0700 - - Initializing SelectChoice
+2023-10-03T01:00:32.460988-0700 - <helpers.choice_selector.SelectChoice object at 0x00000274521CEDA0>
+2023-10-03T01:00:32.460988-0700 - - selecting choice
+2023-10-03T01:01:38.704028-0700 - None
+2023-10-03T01:02:17.629598-0700 - logger setup
+2023-10-03T01:02:17.630599-0700 - logger setup
+2023-10-03T01:02:17.630599-0700 - Initializing the Application
+2023-10-03T01:02:17.630599-0700 - - running get selector
+2023-10-03T01:02:17.630599-0700 - - Initializing SelectChoice
+2023-10-03T01:02:17.630599-0700 - <helpers.choice_selector.SelectChoice object at 0x000001B1DD890460>
+2023-10-03T01:02:17.630599-0700 - - selecting choice
+2023-10-03T01:02:20.417051-0700 - None
+[32m2023-10-03 01:03:34.976[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:03:34.977[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:03:34.977[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m8[0m - [1mInitializing the Application[0m
+[32m2023-10-03 01:03:34.977[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m28[0m - [1m- running get selector[0m
+[32m2023-10-03 01:03:34.977[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36m__init__[0m:[36m7[0m - [1m- Initializing SelectChoice[0m
+[32m2023-10-03 01:03:34.977[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m31[0m - [34m[1m<helpers.choice_selector.SelectChoice object at 0x0000020E07BB49D0>[0m
+[32m2023-10-03 01:03:34.977[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:03:45.512[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m12[0m - [34m[1mNone[0m
+[32m2023-10-03 01:04:24.708[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:04:24.709[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:04:24.709[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:04:24.709[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m8[0m - [1mInitializing the Application[0m
+[32m2023-10-03 01:04:24.709[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m8[0m - [1mInitializing the Application[0m
+[32m2023-10-03 01:04:24.709[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m28[0m - [1m- running get selector[0m
+[32m2023-10-03 01:04:24.709[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m28[0m - [1m- running get selector[0m
+[32m2023-10-03 01:04:24.709[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36m__init__[0m:[36m7[0m - [1m- Initializing SelectChoice[0m
+[32m2023-10-03 01:04:24.709[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36m__init__[0m:[36m7[0m - [1m- Initializing SelectChoice[0m
+[32m2023-10-03 01:04:24.710[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m31[0m - [34m[1m<helpers.choice_selector.SelectChoice object at 0x0000022744ED49D0>[0m
+[32m2023-10-03 01:04:24.710[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m31[0m - [34m[1m<helpers.choice_selector.SelectChoice object at 0x0000022744ED49D0>[0m
+[32m2023-10-03 01:04:24.710[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:04:24.710[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:04:30.329[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m12[0m - [34m[1mNone[0m
+[32m2023-10-03 01:04:30.329[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m12[0m - [34m[1mNone[0m
+[32m2023-10-03 01:06:15.219[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:06:15.220[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:06:15.220[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:06:15.220[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m8[0m - [1mInitializing the Application[0m
+[32m2023-10-03 01:06:15.220[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m8[0m - [1mInitializing the Application[0m
+[32m2023-10-03 01:06:15.220[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m28[0m - [1m- running get selector[0m
+[32m2023-10-03 01:06:15.220[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m28[0m - [1m- running get selector[0m
+[32m2023-10-03 01:06:15.221[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36m__init__[0m:[36m7[0m - [1m- Initializing SelectChoice[0m
+[32m2023-10-03 01:06:15.221[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36m__init__[0m:[36m7[0m - [1m- Initializing SelectChoice[0m
+[32m2023-10-03 01:06:15.221[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m31[0m - [34m[1m<helpers.choice_selector.SelectChoice object at 0x00000160156F49D0>[0m
+[32m2023-10-03 01:06:15.221[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m31[0m - [34m[1m<helpers.choice_selector.SelectChoice object at 0x00000160156F49D0>[0m
+[32m2023-10-03 01:06:15.221[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:06:15.221[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:06:16.844[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m12[0m - [34m[1mNone[0m
+[32m2023-10-03 01:06:16.844[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m12[0m - [34m[1mNone[0m
+[32m2023-10-03 01:08:08.676[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:08:08.677[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:08:08.677[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:08:08.677[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m8[0m - [1mInitializing the Application[0m
+[32m2023-10-03 01:08:08.677[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m8[0m - [1mInitializing the Application[0m
+[32m2023-10-03 01:08:08.677[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m28[0m - [1m- running get selector[0m
+[32m2023-10-03 01:08:08.677[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m28[0m - [1m- running get selector[0m
+[32m2023-10-03 01:08:08.677[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36m__init__[0m:[36m7[0m - [1m- Initializing SelectChoice[0m
+[32m2023-10-03 01:08:08.677[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36m__init__[0m:[36m7[0m - [1m- Initializing SelectChoice[0m
+[32m2023-10-03 01:08:08.678[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:08:08.678[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:08:11.011[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m32[0m - [34m[1m
+ selector - <helpers.choice_selector.SelectChoice object at 0x0000021C579249D0>
+ options - ['D&D', 'Cyberpunk', 'Scifi']
+ selection = None[0m
+[32m2023-10-03 01:08:11.011[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m32[0m - [34m[1m
+ selector - <helpers.choice_selector.SelectChoice object at 0x0000021C579249D0>
+ options - ['D&D', 'Cyberpunk', 'Scifi']
+ selection = None[0m
+[32m2023-10-03 01:08:11.012[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:08:11.012[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:08:44.188[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m12[0m - [34m[1mNone[0m
+[32m2023-10-03 01:08:44.188[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m12[0m - [34m[1mNone[0m
+[32m2023-10-03 01:08:50.741[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:08:50.742[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:08:50.742[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:08:50.742[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m8[0m - [1mInitializing the Application[0m
+[32m2023-10-03 01:08:50.742[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m8[0m - [1mInitializing the Application[0m
+[32m2023-10-03 01:08:50.742[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m28[0m - [1m- running get selector[0m
+[32m2023-10-03 01:08:50.742[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m28[0m - [1m- running get selector[0m
+[32m2023-10-03 01:08:50.742[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36m__init__[0m:[36m7[0m - [1m- Initializing SelectChoice[0m
+[32m2023-10-03 01:08:50.742[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36m__init__[0m:[36m7[0m - [1m- Initializing SelectChoice[0m
+[32m2023-10-03 01:10:12.905[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:10:12.906[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:10:12.906[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:10:12.907[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m8[0m - [1mInitializing the Application[0m
+[32m2023-10-03 01:10:12.907[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m8[0m - [1mInitializing the Application[0m
+[32m2023-10-03 01:10:12.907[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m28[0m - [1m- running get selector[0m
+[32m2023-10-03 01:10:12.907[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m28[0m - [1m- running get selector[0m
+[32m2023-10-03 01:10:12.907[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36m__init__[0m:[36m7[0m - [1m- Initializing SelectChoice[0m
+[32m2023-10-03 01:10:12.907[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36m__init__[0m:[36m7[0m - [1m- Initializing SelectChoice[0m
+[32m2023-10-03 01:10:12.907[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:10:12.907[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:10:20.996[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m32[0m - [34m[1m
+ selector - <helpers.choice_selector.SelectChoice object at 0x00000260FD2849D0>
+ options - ['D&D', 'Cyberpunk', 'Scifi']
+ selection = None[0m
+[32m2023-10-03 01:10:20.996[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m32[0m - [34m[1m
+ selector - <helpers.choice_selector.SelectChoice object at 0x00000260FD2849D0>
+ options - ['D&D', 'Cyberpunk', 'Scifi']
+ selection = None[0m
+[32m2023-10-03 01:10:20.996[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:10:20.996[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:10:24.574[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m12[0m - [34m[1mNone[0m
+[32m2023-10-03 01:10:24.574[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m12[0m - [34m[1mNone[0m
+[32m2023-10-03 01:10:55.268[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:10:55.269[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:10:55.269[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:10:55.269[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m8[0m - [1mInitializing the Application[0m
+[32m2023-10-03 01:10:55.269[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m8[0m - [1mInitializing the Application[0m
+[32m2023-10-03 01:10:55.270[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m28[0m - [1m- running get selector[0m
+[32m2023-10-03 01:10:55.270[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m28[0m - [1m- running get selector[0m
+[32m2023-10-03 01:10:55.270[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36m__init__[0m:[36m7[0m - [1m- Initializing SelectChoice[0m
+[32m2023-10-03 01:10:55.270[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36m__init__[0m:[36m7[0m - [1m- Initializing SelectChoice[0m
+[32m2023-10-03 01:10:55.270[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:10:55.270[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:10:58.110[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m32[0m - [34m[1m
+ selector - <helpers.choice_selector.SelectChoice object at 0x00000231C68249D0>
+ options - ['D&D', 'Cyberpunk', 'Scifi']
+ selection = None[0m
+[32m2023-10-03 01:10:58.110[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m32[0m - [34m[1m
+ selector - <helpers.choice_selector.SelectChoice object at 0x00000231C68249D0>
+ options - ['D&D', 'Cyberpunk', 'Scifi']
+ selection = None[0m
+[32m2023-10-03 01:11:51.588[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:11:51.589[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:11:51.589[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:11:51.589[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m8[0m - [1mInitializing the Application[0m
+[32m2023-10-03 01:11:51.589[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m8[0m - [1mInitializing the Application[0m
+[32m2023-10-03 01:11:51.590[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m29[0m - [1m- running get selector[0m
+[32m2023-10-03 01:11:51.590[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m29[0m - [1m- running get selector[0m
+[32m2023-10-03 01:11:51.590[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36m__init__[0m:[36m7[0m - [1m- Initializing SelectChoice[0m
+[32m2023-10-03 01:11:51.590[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36m__init__[0m:[36m7[0m - [1m- Initializing SelectChoice[0m
+[32m2023-10-03 01:11:51.590[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:11:51.590[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:11:55.841[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m33[0m - [34m[1m
+ selector - <helpers.choice_selector.SelectChoice object at 0x000001D2ED6549D0>
+ options - ['D&D', 'Cyberpunk', 'Scifi']
+ selection = None[0m
+[32m2023-10-03 01:11:55.841[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m33[0m - [34m[1m
+ selector - <helpers.choice_selector.SelectChoice object at 0x000001D2ED6549D0>
+ options - ['D&D', 'Cyberpunk', 'Scifi']
+ selection = None[0m
+[32m2023-10-03 01:14:26.494[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:14:26.495[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:14:26.495[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:14:26.495[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m8[0m - [1mInitializing the Application[0m
+[32m2023-10-03 01:14:26.495[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m8[0m - [1mInitializing the Application[0m
+[32m2023-10-03 01:14:26.496[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m29[0m - [1m- running get selector[0m
+[32m2023-10-03 01:14:26.496[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m29[0m - [1m- running get selector[0m
+[32m2023-10-03 01:14:26.496[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36m__init__[0m:[36m7[0m - [1m- Initializing SelectChoice[0m
+[32m2023-10-03 01:14:26.496[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36m__init__[0m:[36m7[0m - [1m- Initializing SelectChoice[0m
+[32m2023-10-03 01:14:26.496[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:14:26.496[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:14:28.477[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m18[0m - [34m[1m
+ choice - 2
+[0m
+[32m2023-10-03 01:14:28.477[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m18[0m - [34m[1m
+ choice - 2
+[0m
+[32m2023-10-03 01:14:28.477[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m33[0m - [34m[1m
+ selector - <helpers.choice_selector.SelectChoice object at 0x000001FF5C9649D0>
+ options - ['D&D', 'Cyberpunk', 'Scifi']
+ selection = Cyberpunk[0m
+[32m2023-10-03 01:14:28.477[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m33[0m - [34m[1m
+ selector - <helpers.choice_selector.SelectChoice object at 0x000001FF5C9649D0>
+ options - ['D&D', 'Cyberpunk', 'Scifi']
+ selection = Cyberpunk[0m
+[32m2023-10-03 01:15:02.478[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:15:02.479[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:15:02.479[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:15:02.479[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m8[0m - [1mInitializing the Application[0m
+[32m2023-10-03 01:15:02.479[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m8[0m - [1mInitializing the Application[0m
+[32m2023-10-03 01:15:02.479[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m29[0m - [1m- running get selector[0m
+[32m2023-10-03 01:15:02.479[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m29[0m - [1m- running get selector[0m
+[32m2023-10-03 01:15:02.479[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36m__init__[0m:[36m7[0m - [1m- Initializing SelectChoice[0m
+[32m2023-10-03 01:15:02.479[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36m__init__[0m:[36m7[0m - [1m- Initializing SelectChoice[0m
+[32m2023-10-03 01:15:02.479[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:15:02.479[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:15:03.729[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m18[0m - [34m[1m
+ choice - 2
+[0m
+[32m2023-10-03 01:15:03.729[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m18[0m - [34m[1m
+ choice - 2
+[0m
+[32m2023-10-03 01:15:03.729[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m33[0m - [34m[1m
+ selector - <helpers.choice_selector.SelectChoice object at 0x000001C833C049D0>
+ options - ['D&D', 'Cyberpunk', 'Scifi']
+ selection = Cyberpunk[0m
+[32m2023-10-03 01:15:03.729[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m33[0m - [34m[1m
+ selector - <helpers.choice_selector.SelectChoice object at 0x000001C833C049D0>
+ options - ['D&D', 'Cyberpunk', 'Scifi']
+ selection = Cyberpunk[0m
+[32m2023-10-03 01:22:56.814[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:22:56.815[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:22:56.815[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:22:56.816[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m12[0m - [1mInitializing the Application[0m
+[32m2023-10-03 01:22:56.816[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m12[0m - [1mInitializing the Application[0m
+[32m2023-10-03 01:22:56.816[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m25[0m - [1m- running get selector[0m
+[32m2023-10-03 01:22:56.816[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m25[0m - [1m- running get selector[0m
+[32m2023-10-03 01:22:56.816[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36m__init__[0m:[36m7[0m - [1m- Initializing SelectChoice[0m
+[32m2023-10-03 01:22:56.816[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36m__init__[0m:[36m7[0m - [1m- Initializing SelectChoice[0m
+[32m2023-10-03 01:22:56.816[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:22:56.816[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:22:59.724[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m18[0m - [34m[1m
+ choice - 2[0m
+[32m2023-10-03 01:22:59.724[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m18[0m - [34m[1m
+ choice - 2[0m
+[32m2023-10-03 01:22:59.725[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m28[0m - [34m[1m
+ selector - <helpers.choice_selector.SelectChoice object at 0x0000013956D149D0>
+ options - ['D&D', 'Cyberpunk', 'Scifi']
+ selection - Cyberpunk[0m
+[32m2023-10-03 01:22:59.725[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m28[0m - [34m[1m
+ selector - <helpers.choice_selector.SelectChoice object at 0x0000013956D149D0>
+ options - ['D&D', 'Cyberpunk', 'Scifi']
+ selection - Cyberpunk[0m
+[32m2023-10-03 01:22:59.725[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:22:59.725[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:23:07.089[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m18[0m - [34m[1m
+ choice - 9[0m
+[32m2023-10-03 01:23:07.089[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m18[0m - [34m[1m
+ choice - 9[0m
+[32m2023-10-03 01:23:07.089[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m18[0m - [34m[1mk[0m
+[32m2023-10-03 01:23:07.089[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m18[0m - [34m[1mk[0m
+[32m2023-10-03 01:23:51.202[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:23:51.203[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:23:51.203[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 01:23:51.203[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m12[0m - [1mInitializing the Application[0m
+[32m2023-10-03 01:23:51.203[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m12[0m - [1mInitializing the Application[0m
+[32m2023-10-03 01:23:51.204[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m25[0m - [1m- running get selector[0m
+[32m2023-10-03 01:23:51.204[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m25[0m - [1m- running get selector[0m
+[32m2023-10-03 01:23:51.204[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36m__init__[0m:[36m7[0m - [1m- Initializing SelectChoice[0m
+[32m2023-10-03 01:23:51.204[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36m__init__[0m:[36m7[0m - [1m- Initializing SelectChoice[0m
+[32m2023-10-03 01:23:51.204[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:23:51.204[0m | [1mINFO    [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m9[0m - [1m- selecting choice[0m
+[32m2023-10-03 01:23:53.440[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m18[0m - [34m[1m
+ choice - 2[0m
+[32m2023-10-03 01:23:53.440[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mselect_choice[0m:[36m18[0m - [34m[1m
+ choice - 2[0m
+[32m2023-10-03 01:23:53.440[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m28[0m - [34m[1m
+ selector - <helpers.choice_selector.SelectChoice object at 0x0000028F31AB49D0>
+ options - ['D&D', 'Cyberpunk', 'Scifi']
+ selection - Cyberpunk[0m
+[32m2023-10-03 01:23:53.440[0m | [34m[1mDEBUG   [0m | [36mhelpers.choice_selector[0m:[36mget_selector[0m:[36m28[0m - [34m[1m
+ selector - <helpers.choice_selector.SelectChoice object at 0x0000028F31AB49D0>
+ options - ['D&D', 'Cyberpunk', 'Scifi']
+ selection - Cyberpunk[0m
+[32m2023-10-03 01:23:53.440[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m18[0m - [34m[1mCyberpunk[0m
+[32m2023-10-03 01:23:53.440[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m18[0m - [34m[1mCyberpunk[0m
+[32m2023-10-03 02:20:41.618[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:20:41.618[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                       id
+0    e77091f5-f9c1-4f63-abec-26da9bd8d7cd
+1    5a6ba869-5388-4741-a46b-94be1fa267c6
+2    febfcd1c-a51c-45f7-bad0-0ad0a93ed388
+3    31e819cb-fa3b-4906-a9ce-f1813e9b594e
+4    1dbeba31-7492-458e-919e-1dbe9312a407
+..                                    ...
+836  7b321495-1726-49bc-8ca0-56b4bad1370d
+837  94b827bc-1d9d-4307-8870-6ceac5cb3798
+838  5cb75984-30af-4c71-902a-47fa7866b081
+839  c5fa2a14-461a-40e7-aeeb-4b4859c04592
+840  f2ab4238-c50e-4b95-a360-9fcbee2939b9
+
+[841 rows x 1 columns][0m
+[32m2023-10-03 02:20:41.620[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:20:58.923[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:20:58.923[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1mEmpty DataFrame
+Columns: [id]
+Index: [][0m
+[32m2023-10-03 02:20:58.923[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:21:07.105[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:21:07.105[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  c3e39d15-f1d4-4dcc-be0c-44250476df15[0m
+[32m2023-10-03 02:21:07.106[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:21:12.769[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:21:12.770[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1mEmpty DataFrame
+Columns: [id]
+Index: [][0m
+[32m2023-10-03 02:21:12.770[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:21:40.757[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:21:40.757[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1mEmpty DataFrame
+Columns: [id]
+Index: [][0m
+[32m2023-10-03 02:21:40.757[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:21:42.801[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:21:42.802[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  ed01ed0d-aefb-4215-85ed-9f9b01ee53b2
+1  95bd7087-ebb3-45e3-8c46-6d255d16a3b8[0m
+[32m2023-10-03 02:21:42.803[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:21:58.355[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:21:58.355[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  34e9b4bd-cf02-4329-a657-3fd32098c8c7
+1  cfa069df-cc86-43fe-b65a-8b42a4709de2
+2  d6c9edd5-2112-4aee-899f-56548d26d9aa
+3  96995d86-b637-4711-bf34-cccb906da4f8
+4  53015672-972d-4954-b270-0d61bbafb105
+5  a266d908-0ab1-4c77-af03-40d8e7aba2c9
+6  9e3b8721-ad97-4b1a-aa57-d64b72b3eadd
+7  479393fe-e092-4278-b804-687e58c6d679[0m
+[32m2023-10-03 02:21:58.357[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:22:00.807[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:22:00.807[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1mEmpty DataFrame
+Columns: [id]
+Index: [][0m
+[32m2023-10-03 02:22:00.807[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:22:02.593[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:22:02.594[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  bcd9ce70-4f75-4ae2-9e7d-bf36d6d73a3c
+1  00a722f7-1bdc-4bfe-ae88-326372689dfe[0m
+[32m2023-10-03 02:22:02.595[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:22:04.294[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:22:04.294[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  385c20ca-9542-4488-9664-1f02eb6c34d8
+1  fc991069-69e4-45a2-a427-ef97d8b402ce
+2  432c22a2-0c51-4d54-8ac2-da03cc9f4832
+3  9b38c137-d535-4b05-b9b8-9fa84151bce2[0m
+[32m2023-10-03 02:22:04.295[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:22:05.856[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:22:05.856[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  f0ab5d2f-1c37-4461-946d-3f00620ed244
+1  8861a548-0368-4451-b8e9-ae6241829fc6
+2  ec23d153-d176-43e1-8830-024d7e94a9ef
+3  cb9c497c-d7a5-4cd9-98ac-43b69dc1cc4f
+4  2ad8e488-6896-4e4e-840e-92e44e65544f[0m
+[32m2023-10-03 02:22:05.857[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:22:07.337[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:22:07.337[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  268c08c6-680f-4285-92b5-4915d3f5deab
+1  08db7063-36d9-4695-9379-e61578f3c2c4
+2  9a97bb76-7c74-4671-8fbb-d45d07c77c96
+3  827d1325-3df4-402b-9af8-96607e12f99d
+4  7aefbd86-2df6-407a-b7d5-3dfd6b9656ab
+5  656f2f6a-7d17-46f2-b42f-13763d2c0b66
+6  fb783d8b-b781-4052-9580-824bd40053da[0m
+[32m2023-10-03 02:22:07.338[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:22:08.995[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:22:08.996[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  1b404583-31f2-41f0-92ea-f8966463bbda
+1  68faddda-43cd-4518-b832-01fd307df618
+2  232020de-a69f-42d6-891e-48dcbd75f203
+3  d5d1921d-f5a9-44ad-8f59-e45a3d0c6b19
+4  15f5003d-a45a-49d9-b07d-8b794b0f4344
+5  7487798c-43df-4e45-8c04-20fb1e5f5f34
+6  b57ea79a-8c83-482d-b71f-50db860d1853
+7  4831f1ac-4cd6-4854-b61c-5be64a0b9a42[0m
+[32m2023-10-03 02:22:08.997[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:22:10.521[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:22:10.521[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1mEmpty DataFrame
+Columns: [id]
+Index: [][0m
+[32m2023-10-03 02:22:10.522[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:22:14.028[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:22:14.028[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  55e410b2-c139-4b45-8c85-69d3223cab8f
+1  37c7daca-f84e-4519-af4e-6bbede2eab0a
+2  df13ac30-b7b7-4b53-93dd-ca0cabca31cf
+3  6cfe4838-d28d-4091-857f-b60243252a79[0m
+[32m2023-10-03 02:22:14.030[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:23:46.632[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:23:46.633[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1mEmpty DataFrame
+Columns: [id]
+Index: [][0m
+[32m2023-10-03 02:23:46.633[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:23:49.409[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:23:49.410[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  54a911d9-ad0d-4404-9f82-cdad9286e407[0m
+[32m2023-10-03 02:23:49.411[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:23:51.295[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:23:51.296[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  b74a9b40-0ce9-4000-a64a-f27e07070688[0m
+[32m2023-10-03 02:23:51.297[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:23:53.684[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:23:53.685[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  548281ae-8ac0-413b-b3b1-2fd35e57f119[0m
+[32m2023-10-03 02:23:53.686[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:23:55.952[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:23:55.953[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  2cf30ef2-187b-4b86-8a17-3058fe598c78[0m
+[32m2023-10-03 02:23:55.954[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:23:57.799[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:23:57.799[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  2bfcbf44-bd04-4f74-8814-a44d3c53a30c[0m
+[32m2023-10-03 02:23:57.800[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:23:59.515[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:23:59.515[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  e141d498-ef7e-4d9a-8fe4-181a68024908[0m
+[32m2023-10-03 02:23:59.516[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:24:00.991[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:24:00.991[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1mEmpty DataFrame
+Columns: [id]
+Index: [][0m
+[32m2023-10-03 02:24:00.992[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:24:02.674[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:24:02.674[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1mEmpty DataFrame
+Columns: [id]
+Index: [][0m
+[32m2023-10-03 02:24:02.675[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:24:04.288[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:24:04.288[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1mEmpty DataFrame
+Columns: [id]
+Index: [][0m
+[32m2023-10-03 02:24:04.289[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:24:05.860[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:24:05.860[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  bb09d395-5146-4cda-b218-3773a09ee778[0m
+[32m2023-10-03 02:24:05.861[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:24:08.275[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:24:08.275[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1mEmpty DataFrame
+Columns: [id]
+Index: [][0m
+[32m2023-10-03 02:24:08.276[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:24:10.287[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:24:10.287[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1mEmpty DataFrame
+Columns: [id]
+Index: [][0m
+[32m2023-10-03 02:24:10.287[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:24:21.104[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:24:21.104[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  e932476a-f9e5-40f1-bc29-b264747c1394
+1  df850ca2-d85d-4bf0-a624-dfb7fdf5533e[0m
+[32m2023-10-03 02:24:21.105[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:24:22.929[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:24:22.930[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  9c37399c-8f84-46e0-b202-52a9f69bd09f[0m
+[32m2023-10-03 02:24:22.931[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:24:25.074[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:24:25.074[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  c9f149a1-7c8a-41fb-b316-41af1bceb6f9
+1  1f57c3e2-f56e-4e91-b025-f7c02dad8c8c[0m
+[32m2023-10-03 02:24:25.075[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:24:26.545[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:24:26.546[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  ab1ad233-3270-492f-be2a-34864751fa75[0m
+[32m2023-10-03 02:24:26.547[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:24:28.276[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:24:28.276[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  d2f16e67-7faa-45af-8cf9-e36178d796a6[0m
+[32m2023-10-03 02:24:28.277[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:24:29.885[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:24:29.885[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  96305027-0843-4be0-8db0-0a99b81181cd
+1  48db13c2-f90a-45b2-8727-4263f0a37e32[0m
+[32m2023-10-03 02:24:29.887[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:25:55.911[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:25:55.912[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  a65b063a-3827-4ee8-a6f8-36a3eaef2d22[0m
+[32m2023-10-03 02:25:55.913[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:25:58.898[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:25:58.898[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  f9babaa9-d5a4-4cf6-9fab-75210c1cea21[0m
+[32m2023-10-03 02:25:58.899[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:26:02.062[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:26:02.062[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m9[0m - [34m[1m                                     id
+0  6f5fc46c-0b93-42cf-b487-b637f42fe5c8[0m
+[32m2023-10-03 02:26:02.063[0m | [1mINFO    [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [1mInitializing the Application[0m
+[32m2023-10-03 02:29:18.720[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:29:28.220[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:29:33.596[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:29:57.151[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:30:34.484[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:30:34.486[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [34m[1mNone[0m
+[32m2023-10-03 02:30:37.511[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:30:37.514[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [34m[1mNone[0m
+[32m2023-10-03 02:30:39.353[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:30:39.356[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [34m[1mNone[0m
+[32m2023-10-03 02:30:40.593[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:30:40.596[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [34m[1mNone[0m
+[32m2023-10-03 02:30:41.703[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:30:41.706[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [34m[1mNone[0m
+[32m2023-10-03 02:30:42.884[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:30:42.886[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [34m[1mNone[0m
+[32m2023-10-03 02:30:44.331[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:30:44.334[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [34m[1mNone[0m
+[32m2023-10-03 02:30:45.427[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:30:45.429[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [34m[1mNone[0m
+[32m2023-10-03 02:30:46.587[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:30:46.589[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [34m[1mNone[0m
+[32m2023-10-03 02:30:47.817[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:30:47.819[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [34m[1mNone[0m
+[32m2023-10-03 02:30:48.881[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 02:30:48.883[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [34m[1mNone[0m
+[32m2023-10-03 21:56:00.762[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 21:56:00.767[0m | [34m[1mDEBUG   [0m | [36m__main__[0m:[36mmain[0m:[36m10[0m - [34m[1mNone[0m
+[32m2023-10-03 22:26:30.457[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 22:31:12.986[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 23:59:27.291[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 23:59:44.866[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 23:59:46.085[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 23:59:46.085[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 23:59:46.086[0m | [1mINFO    [0m | [36mgame_master.datastax_vectordb[0m:[36m<module>[0m:[36m23[0m - [1m- Starting Vectorstore[0m
+[32m2023-10-03 23:59:46.086[0m | [1mINFO    [0m | [36mgame_master.datastax_vectordb[0m:[36m<module>[0m:[36m23[0m - [1m- Starting Vectorstore[0m
+[32m2023-10-03 23:59:46.087[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 23:59:46.087[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-03 23:59:46.087[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-04 00:07:27.961[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-04 00:07:28.579[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-04 00:07:28.579[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-04 00:07:28.581[0m | [1mINFO    [0m | [36mgame_master.datastax_vectordb[0m:[36m<module>[0m:[36m23[0m - [1m- Starting Vectorstore[0m
+[32m2023-10-04 00:07:28.581[0m | [1mINFO    [0m | [36mgame_master.datastax_vectordb[0m:[36m<module>[0m:[36m23[0m - [1m- Starting Vectorstore[0m
+[32m2023-10-04 00:07:28.582[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-04 00:07:28.582[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-04 00:07:28.582[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-04 00:09:27.675[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-04 00:09:28.298[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-04 00:09:28.298[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-04 00:09:28.299[0m | [1mINFO    [0m | [36mgame_master.datastax_vectordb[0m:[36m<module>[0m:[36m23[0m - [1m- Starting Vectorstore[0m
+[32m2023-10-04 00:09:28.299[0m | [1mINFO    [0m | [36mgame_master.datastax_vectordb[0m:[36m<module>[0m:[36m23[0m - [1m- Starting Vectorstore[0m
+[32m2023-10-04 00:09:28.300[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-04 00:09:28.300[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-04 00:09:28.300[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-04 00:10:47.106[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-04 00:10:47.731[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-04 00:10:47.731[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-04 00:10:47.732[0m | [1mINFO    [0m | [36mgame_master.datastax_vectordb[0m:[36m<module>[0m:[36m23[0m - [1m- Starting Vectorstore[0m
+[32m2023-10-04 00:10:47.732[0m | [1mINFO    [0m | [36mgame_master.datastax_vectordb[0m:[36m<module>[0m:[36m23[0m - [1m- Starting Vectorstore[0m
+[32m2023-10-04 00:10:47.732[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-04 00:10:47.732[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
+[32m2023-10-04 00:10:47.732[0m | [1mINFO    [0m | [36mhelpers.logger[0m:[36mget_logger[0m:[36m12[0m - [1mlogger setup[0m
