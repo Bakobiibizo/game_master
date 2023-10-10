@@ -4,25 +4,34 @@ from helpers.logger import get_logger
 
 logger = get_logger()
 
+class PromptMessage(Message):
+    def __init__(self, role, content):
+        self.role = role
+        self.content = content
+        self.create_message()
+        
+    def create_message(self):
+        return self.model_dump()
 
 class PromptMessages(MessageABC):
     def __init__(
         self, 
         role: Optional[str]="user", 
         content: Optional[str]="") -> None:
-        super.__init__(self)
         self.role = role
         self.content = content
+        self.message = Message()
 
-    def create_message(self, role, content)-> Dict[str, str]:
-        return {"role": role, "content": content}
+    def create_message(self, role, content)-> Message:
+        return self.message.create_message({"role": role, "content": content})
 
 
-class SystemPromptMessage(SystemMessageABC):
+
+class SystemPromptMessage(SystemMessageABC, SystemMessage):
     def __init__(
         self,
         ) -> None:
-        super.__init__(SystemMessage)
+        super.__init__()
         self.messages: Optional[List[Message]]=[]
         self.name_map: Optional[Dict[str, str]]={}
         self.message = Message()

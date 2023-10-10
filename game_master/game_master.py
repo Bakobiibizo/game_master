@@ -32,6 +32,7 @@ def start_game() -> tuple(str, str, str):
     logger.info("- Starting the game")
     game_modes = selector(agent_modes)
     template, choice = selector(game_modes)
+    game_broadcast(choice)
     return template, choice
     
 def run_llm(session, template, ):

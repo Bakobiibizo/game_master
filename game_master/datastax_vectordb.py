@@ -27,8 +27,7 @@ def connection_to_cluster():
         cloud=cloud_config, 
         auth_provider=auth_provider
         )
-    session = cluster.connect()
-    return session
+    return cluster.connect()
 
 def get_memory_module(session: Cluster) -> ConversationBufferMemory:
     session_id=generate_uuids(1)
